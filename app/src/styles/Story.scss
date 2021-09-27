@@ -1,0 +1,98 @@
+
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  html,
+  body {
+    background-color: $app-background-color;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  
+  .stories-view {
+    display: flex;
+    flex-direction: column;
+    @media (min-width: $breakpoint-desktop) {
+      flex-direction: row;
+    }
+    ul {
+      padding: 0;
+    }
+    height: 100vh;
+  }
+
+  
+.stories {
+    min-width: 25em;
+    @media (min-width: $breakpoint-desktop) {
+      overflow: scroll;
+    }
+  }
+  
+  .stories__header {
+    height: 2em;
+    margin: 1em 0 0 0;
+  }
+  
+  .story {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    background-color: $story-background-color;
+    margin: 1em;
+    border-radius: 3px;
+    border: 1px solid gray;
+    &:hover {
+      cursor: pointer;
+      background-color: gray;
+    }
+    &--selected {
+      background-color: ghostwhite;
+      color: black;
+      &:hover {
+        background-color: ghostwhite;
+      }
+    }
+  }
+  
+  .story__header {
+    display: flex;
+    justify-content: space-between;
+    h4,
+    p {
+      margin: 0;
+      font-size: 0.9em;
+    }
+  }
+  
+  .story__content {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .story__thumbnail {
+    width: 7em;
+    height: 4.6em;
+    object-fit: contain;
+    margin: 0.5em 0;
+  }
+  
+  .story__details {
+    font-size: 0.8em;
+    margin-top: 0.7em;
+  }
+
+
+
+  
