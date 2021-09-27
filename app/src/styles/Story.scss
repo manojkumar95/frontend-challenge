@@ -38,6 +38,16 @@ body {
     @media (min-width: $breakpoint-desktop) {
       overflow: scroll;
     }
+    .story-card {
+      box-shadow: 0 4px 21px -12px rgb(0 0 0 / 66%);
+      border: 1px solid #ececec;
+      border-radius: 8px;
+      padding: 2rem;
+      .story_image {
+        background: #ececec;
+        padding: 12px 14px;
+      }
+    }
   }
   
   .stories__header {
