@@ -1,0 +1,593 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Story should render correctly with selected item 1`] = `
+<div>
+  <div
+    class="stories-view container"
+  >
+    <div
+      class="stories col-12"
+    >
+      <h4
+        class="stories__header"
+      >
+        Stories
+      </h4>
+      <ul
+        class="stories__list"
+      >
+        <li
+          class="story-card"
+        >
+          <div
+            class="story__content"
+          >
+            <div
+              class="story__details"
+            >
+              <h4>
+                Funds-strapped Maharashtra faces Rs 700 crore payout for Covid | Mumbai News - Times of India
+              </h4>
+              <div>
+                Author: 
+                <span />
+              </div>
+              <div>
+                Word count: 
+                <span>
+                  323
+                </span>
+              </div>
+              <div>
+                Summary: 
+                <span>
+                   
+                  MUMBAI: With almost 1.4 lakh Covid-19 deaths since the pandemic began, the cash-strapped Maharashtra government is looking at a payout of over Rs 700 crore in terms of compensation from the State Disaster Response Fund ( SDRF ).
+                </span>
+                <span>
+                   
+                  This, after the Centre fixed an ex-gratia payment of Rs 50,000 to families of Covid victims in the Supreme Court, to be paid by states from the fund.With the SDRF already stretched with payouts for Covid relief and natural calamities, the state is likely to ask the Centre to increase its contribution to the SDRF, said sources.
+                </span>
+                <span>
+                   
+                  Since Maharashtra recorded the highest number of Covid cases and fatalities in the country, it is the state which will face the highest payout through the SDRF.The SDRF is of around Rs 4,200 crore.
+                </span>
+                <span>
+                   
+                  Also, the state has faced multiple natural calamities, for which payouts are made from the SDRF.
+                </span>
+                <span>
+                   
+                  But the SDRF will be exhausted with payments for various natural calamities and the burden will come on the state budget,” said a senior official.The Centre informed the Supreme Court about the ex-gratia amount fixed by the National Disaster Management Authority (NDMA).
+                </span>
+              </div>
+            </div>
+            <div
+              class="story_image"
+            >
+              <img
+                alt="media-img"
+                class="story__thumbnail"
+                src="https://static.toiimg.com/thumb/msid-86572601,width-1070,height-580,imgsize-37144,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+              />
+            </div>
+          </div>
+        </li>
+        <li
+          class="story-card"
+        >
+          <div
+            class="story__content"
+          >
+            <div
+              class="story__details"
+            >
+              <h4>
+                HC: Witnesses must sign non-disclosure statement in Mumbai | Mumbai News - Times of India
+              </h4>
+              <div>
+                Author: 
+                <span />
+              </div>
+              <div>
+                Word count: 
+                <span>
+                  332
+                </span>
+              </div>
+              <div>
+                Summary: 
+                <span>
+                   
+                  Mumbai: “The prohibition on publishing the names, address or other personal identifiable information of the parties is absolute,” said the Bombay HC in its September 24 order issuing guidelines for sexual harassment at workplace cases.It directed all persons, including the media, to ensure strict compliance and any failure would amount to contempt of court.
+                </span>
+                <span>
+                   
+                  “Both sides and all parties and advocates as also witnesses , are forbidden from disclosing the contents of any order, judgment or filing to the media or publishing any such material in any mode or fashion by any means, including social media, without specific leave of the court,” said the HC.
+                </span>
+                <span>
+                   
+                  “In the order sheets, the names of the parties will not be mentioned,” it said, adding that the endeavour will be to anonymize the identities of the parties, such as email ID, mobile or telephone number and address.
+                </span>
+                <span>
+                   
+                  The names and addresses of the witnesses will also not be noted.The order was passed in a suit filed under the POSH Act by ‘P’ versus ‘A and others’ after hearing Abha Singh as counsel for P and Birendra Saraf, senior counsel for A, with Lancy D’Souza as counsel for another defendant.
+                </span>
+                <span>
+                   
+                  It added: “The registry will not permit anyone other than the advocate-on-record with a current and valid vakalatnama to take inspection or copies of any filing or order.”
+                </span>
+              </div>
+            </div>
+            <div
+              class="story_image"
+            >
+              <img
+                alt="media-img"
+                class="story__thumbnail"
+                src="https://static.toiimg.com/thumb/msid-86571004,width-1070,height-580,imgsize-67318,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+              />
+            </div>
+          </div>
+        </li>
+        <li
+          class="story-card"
+        >
+          <div
+            class="story__content"
+          >
+            <div
+              class="story__details"
+            >
+              <h4>
+                Rajabai tower, Bombay HC building to be opened to public | Mumbai News - Times of India
+              </h4>
+              <div>
+                Author: 
+                <span />
+              </div>
+              <div>
+                Word count: 
+                <span>
+                  387
+                </span>
+              </div>
+              <div>
+                Summary: 
+                <span>
+                   
+                  MUMBAI: Two iconic structures in south Mumbai Rajabai Tower on Mumbai University’s campus and Bombay High Court building will be thrown open to tourists from next week.
+                </span>
+                <span>
+                   
+                  Another Gothic structure on the university’s campus, Cowasji Jehangir Convocation Hall, will be part of the heritage walk.
+                </span>
+                <span>
+                   
+                  “The heritage walk on the campus will include the library, massive reading hall housed in Rajabai Tower and convocation hall.
+                </span>
+                <span>
+                   
+                  The proposal was floated by the state’s ministry of tourism in December and was a long-pending demand from Shiv Sena’s youth wing, Yuva Sena.The university will also explore internship opportunities for history and tourism students from their campus and affiliated colleges in these guided tours.The MoU was signed between Directorate of Tourism, the university, and Tourist Guide Association (TOGA).
+                </span>
+                <span>
+                   
+                  A large chunk of the fees collected will go to the association, which will be conducting these heritage walks, an official said.Both Gothic structures on the university’s campus were built in the 19th century and were designed by Sir George Gilbert Scott.
+                </span>
+              </div>
+            </div>
+            <div
+              class="story_image"
+            >
+              <img
+                alt="media-img"
+                class="story__thumbnail"
+                src="https://static.toiimg.com/thumb/msid-86572738,width-1070,height-580,imgsize-138046,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+              />
+            </div>
+          </div>
+        </li>
+        <li
+          class="story-card"
+        >
+          <div
+            class="story__content"
+          >
+            <div
+              class="story__details"
+            >
+              <h4>
+                BMC to order Rs 60 crore oxygen supply to jumbos, no shortage likely | Mumbai News - Times of India
+              </h4>
+              <div>
+                Author: 
+                <span />
+              </div>
+              <div>
+                Word count: 
+                <span>
+                  482
+                </span>
+              </div>
+              <div>
+                Summary: 
+                <span>
+                   
+                  MUMBAI: The BMC will order supply of around 31 lakh cubic metres of liquid medical oxygen (LMO) for its jumbo centres as the next step in its plan to be oxygen-sufficient before a possible third wave of Covid.
+                </span>
+                <span>
+                   
+                  The year-long supply will cost around Rs 60 crore.The order is one of the last phases of the BMC’s oxygen management plan.
+                </span>
+                <span>
+                   
+                  The suppliers of the 31 lakh cubic metres or roughly 400MT LMO will have to keep oxygen available for 48 hours at all centres at all times and provide more oxygen within 24 hours of the BMC’s request as required, said officials.The BMC faced a short but critical oxygen crisis during the second wave.
+                </span>
+                <span>
+                   
+                  At the peak in April 2020, there was a demand for over 260-270MT, triggering a frantic search for close to a week.The BMC gave a Rs 205-crore contract to instal oxygen generation plants at 11 jumbo centres and field hospitals this August.
+                </span>
+                <span>
+                   
+                  Two 40KL tanks are being imported from China to be installed at jumbos in Kanjurmarg and Somaiya.A refilling station has been set up at Mahalaxmi, where up to 100 dura cylinders can be filled daily.BJP corporator Vinod Mishra said the BMC had spent close to Rs 600 crore on oxygen since the first wave.
+                </span>
+              </div>
+            </div>
+            <div
+              class="story_image"
+            >
+              <img
+                alt="media-img"
+                class="story__thumbnail"
+                src="https://static.toiimg.com/thumb/msid-86572587,width-1070,height-580,imgsize-97548,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+              />
+            </div>
+          </div>
+        </li>
+        <li
+          class="story-card"
+        >
+          <div
+            class="story__content"
+          >
+            <div
+              class="story__details"
+            >
+              <h4>
+                Mumbai: Number of elderly ending lives soars 31% in pandemic year | Mumbai News - Times of India
+              </h4>
+              <div>
+                Author: 
+                <span />
+              </div>
+              <div>
+                Word count: 
+                <span>
+                  456
+                </span>
+              </div>
+              <div>
+                Summary: 
+                <span>
+                   
+                  MUMBAI: Loneliness and social isolation hurt senior citizens the most last year.
+                </span>
+                <span>
+                   
+                  In 2020, 121 elderly people from the city ended their lives, up 31% over the previous year, reveals data from the Mumbai police.Information accessed by RTI activist Jeetendra Ghadge of The Young Whistleblowers’ Foundation shows 1,282 citizens committed suicide in Mumbai in 2020,an average of three individuals per day compared to 1,229 in 2019.
+                </span>
+                <span>
+                   
+                  “Senior citizens faced the worst impact in the lockdown,” said Ghadge.
+                </span>
+                <span>
+                   
+                  They came under severe stress which affected their mental health,” said Ghadge.The tragic upward graph of suicides among senior citizens does not surprise octogenarian Manohar Rangnekar, director of Samaritans Mumbai, which runs a three-hour-a-day suicide prevention helpline.
+                </span>
+                <span>
+                   
+                  Steeped in the grind of making ends meet, "the younger generation was unable to take care of the elderly," says Rangnekar.In a recent survey titled 'The Silent Tormentor -- Covid-19 and the elderly' by the NGO HelpAge India, fractured communication with loved ones and an increasing sense of despondency were the overarching feelings conveyed by senior citizens.
+                </span>
+              </div>
+            </div>
+            <div
+              class="story_image"
+            >
+              <img
+                alt="media-img"
+                class="story__thumbnail"
+                src="https://static.toiimg.com/thumb/msid-86572817,width-1070,height-580,imgsize-17324,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+              />
+            </div>
+          </div>
+        </li>
+        <li
+          class="story-card"
+        >
+          <div
+            class="story__content"
+          >
+            <div
+              class="story__details"
+            >
+              <h4>
+                Belgium News
+              </h4>
+              <div>
+                Author: 
+                <span />
+              </div>
+              <div>
+                Word count: 
+                <span>
+                  226
+                </span>
+              </div>
+              <div>
+                Summary: 
+                <span>
+                   
+                  Ex-Catalan leader back in Brussels after Italy arrestExiled former Catalan leader Carles Puigdemont was back in Belgium on Monday after his arrest in Italy but said he had no idea of what his fate would be when he goes back for an extradition hearing.
+                </span>
+                <span>
+                   
+                  “I don’t know” what will happen, he told journalists as he entered the European Parliament, where he is a lawmaker.
+                </span>
+                <span>
+                   
+                  He confirmed he would travel back to Sardinia for his hearing there next Monday that will weigh an extradition request from Spain.Puigdemont was arrested in Sardinia on Thursday and spent the night in prison before a brief court hearing a day later that authorised his provisional release.The 58-year-old is wanted by Madrid on charges of sedition for leading a failed Catalan bid to declare independence from Spain in October 2017, fleeing to Belgium to avoid prosecution.His lawyer in Sardinia has insisted there was no basis for his arrest, nor for his extradition.Puigdemont said his required presence in Italy “isn’t easy… because it coincides with the plenary week” of the European Parliament.
+                </span>
+                <span>
+                   
+                  We are ready to face this hearing.”
+                </span>
+                <span>
+                   
+                  Despite a ban by Madrid, Catalonia’s separatist regional government under Puigdemont tried to stage an independence referendum in 2017, which was marred by police violence.
+                </span>
+              </div>
+            </div>
+            <div
+              class="story_image"
+            >
+              <img
+                alt="media-img"
+                class="story__thumbnail"
+                src="/media-placeholder.png"
+              />
+            </div>
+          </div>
+        </li>
+        <li
+          class="story-card"
+        >
+          <div
+            class="story__content"
+          >
+            <div
+              class="story__details"
+            >
+              <h4>
+                Belgium News
+              </h4>
+              <div>
+                Author: 
+                <span />
+              </div>
+              <div>
+                Word count: 
+                <span>
+                  167
+                </span>
+              </div>
+              <div>
+                Summary: 
+                <span>
+                   
+                  Catalan separatist leader returns to Brussels: lawyerExiled former Catalan leader Carles Puigdemont was back in Belgium Monday after his arrest in Italy but will return at the weekend for a hearing over a Spanish extradition request, his lawyer said.
+                </span>
+                <span>
+                   
+                  “He is in Brussels and will return to Sardinia on Sunday,” Gonzalo Boye told AFP.A member of the European Parliament, Puigdemont was arrested in Sardinia on Thursday evening and spent the night in prison before a brief court hearing a day later.The 58-year-old is wanted by Madrid on charges of sedition for leading a failed Catalan bid to declare independence from Spain in October 2017, fleeing to Belgium to avoid prosecution.Italian judges must now decide whether he should be extradited, with the court in the northern town of Sassari saying he was free to leave but must return for the hearing on October 4.
+                </span>
+                <span>
+                   
+                  Following his release late on Friday, Puigdemont said he would return to Brussels, where he has been based since late 2017.
+                </span>
+              </div>
+            </div>
+            <div
+              class="story_image"
+            >
+              <img
+                alt="media-img"
+                class="story__thumbnail"
+                src="/media-placeholder.png"
+              />
+            </div>
+          </div>
+        </li>
+        <li
+          class="story-card"
+        >
+          <div
+            class="story__content"
+          >
+            <div
+              class="story__details"
+            >
+              <h4>
+                Belgium News
+              </h4>
+              <div>
+                Author: 
+                <span />
+              </div>
+              <div>
+                Word count: 
+                <span>
+                  213
+                </span>
+              </div>
+              <div>
+                Summary: 
+                <span>
+                   
+                  After brief arrest, Catalan separatist leader back in BrusselsExiled former Catalan leader Carles Puigdemont was back in Belgium Monday after his arrest in Italy but will return at the weekend for a hearing over a Spanish extradition request, his lawyer said.
+                </span>
+                <span>
+                   
+                  “He is in Brussels and will return to Sardinia on Sunday,” Gonzalo Boye told AFP.A member of the European Parliament, Puigdemont was arrested in Sardinia on Thursday evening and spent the night in prison before a brief court hearing a day later.The 58-year-old is wanted by Madrid on charges of sedition for leading a failed Catalan bid to declare independence from Spain in October 2017, fleeing to Belgium to avoid prosecution.Italian judges must now decide whether he should be extradited, with the court in the northern town of Sassari saying he was free to leave but must return for the hearing on October 4.
+                </span>
+                <span>
+                   
+                  Following his release late on Friday, Puigdemont said he would return to Brussels, where he has been based since late 2017.
+                </span>
+                <span>
+                   
+                  His lawyer in Sardinia has insisted there was no basis for his arrest, nor for his extradition.
+                </span>
+                <span>
+                   
+                  – Immunity lifted in March –Despite a ban by Madrid, Catalonia’s separatist regional government tried to stage an independence referendum in 2017, which was marred by police violence.
+                </span>
+              </div>
+            </div>
+            <div
+              class="story_image"
+            >
+              <img
+                alt="media-img"
+                class="story__thumbnail"
+                src="/media-placeholder.png"
+              />
+            </div>
+          </div>
+        </li>
+        <li
+          class="story-card"
+        >
+          <div
+            class="story__content"
+          >
+            <div
+              class="story__details"
+            >
+              <h4>
+                Reasons For Permitted Travel Across Alert Level Boundary Expanded | Scoop News
+              </h4>
+              <div>
+                Author: 
+                <span>
+                  New Zealand
+                </span>
+              </div>
+              <div>
+                Word count: 
+                <span>
+                  378
+                </span>
+              </div>
+              <div>
+                Summary: 
+                <span>
+                   
+                  From 11:59pm tonight additional reasons for permitted travel will be introduced for movement across the Auckland boundary, COVID-19 Response Minister Chris Hipkins says.
+                </span>
+                <span>
+                   
+                  The additional permitted travel reasons are for:
+
+o Move into a new property that they have purchased or rented
+
+“There are people in Auckland who need to move to a new home or start a new job outside of Auckland, as well as families whose ability to maintain shared childcare arrangements has been restricted,” Chris Hipkins said.
+                </span>
+                <span>
+                   
+                  “People crossing the boundary for shared caregiving arrangements will need to have a test within seven days of each crossing, as we recognise these arrangements may involve more back-and-forth travel than other reasons.
+                </span>
+                <span>
+                   
+                  “People relocating or returning home will need to carry proof of their reason for travel, and not travel if they are unwell or have any symptoms of COVID-19.
+                </span>
+                <span>
+                   
+                  “Most people are still not permitted to travel and it is really important that anyone with symptoms or who has been at a location of interest does not travel, isolates at home and gets a COVID-19 test,” Chris Hipkins said.
+                </span>
+              </div>
+            </div>
+            <div
+              class="story_image"
+            >
+              <img
+                alt="media-img"
+                class="story__thumbnail"
+                src="http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg"
+              />
+            </div>
+          </div>
+        </li>
+        <li
+          class="story-card"
+        >
+          <div
+            class="story__content"
+          >
+            <div
+              class="story__details"
+            >
+              <h4>
+                Registered FDI in Vietnam up in nine months despite pandemic: conference | OANA NEWS
+              </h4>
+              <div>
+                Author: 
+                <span>
+                  Vna
+                </span>
+              </div>
+              <div>
+                Word count: 
+                <span>
+                  303
+                </span>
+              </div>
+              <div>
+                Summary: 
+                <span>
+                   
+                  Hanoi, September 28 (VNA) – Despite COVID-19, foreign investors’ new capital registered in Vietnam reached 22.15 billion USD in the first nine months, up 4.4 percent compared to the same period last year, as heard at the Government Portal’s online conference held on September 27 with the participation of a number of localities housing foreign direct investment (FDI) projects.
+                </span>
+                <span>
+                   
+                  Representatives of participating FDI firms said they believe in Vietnam’s business climate and hoped the authorities to continue prioritising vaccinations for workers, opening the market for production recovery, and simplifying administrative procedures.
+                </span>
+                <span>
+                   
+                  Samsung Vietnam is building a 220 million USD R&D centre in Hanoi.
+                </span>
+                <span>
+                   
+                  Binu Jacob, CEO/Managing Director of Nestlé Vietnam, said the group has decided to invest 132 million USD in building a new plant in southern Dong Nai province over the next two years in a bid to turn Vietnam Nestlé's production centre in Asia and Oceania.
+                </span>
+                <span>
+                   
+                  Vice Chairwoman of the Dong Nai People’s Committee Nguyen Thi Hoang pledged the local authorities’ support for enterprises and their production recovery.
+                </span>
+              </div>
+            </div>
+            <div
+              class="story_image"
+            >
+              <img
+                alt="media-img"
+                class="story__thumbnail"
+                src="http://www.oananews.org/sites/default/files/styles/large/public/field/image/registered_fdi_up_in_nine_months_despite_pandemic_conference.jpg?itok=T6yjkns4"
+              />
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+`;
