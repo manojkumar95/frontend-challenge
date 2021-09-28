@@ -44,7 +44,6 @@ body {
       border-radius: 8px;
       padding: 2rem;
       .story_image {
-        background: #ececec;
         padding: 12px 14px;
       }
     }
@@ -92,10 +91,8 @@ body {
   }
   
   .story__thumbnail {
-    width: 7em;
-    height: 4.6em;
-    object-fit: contain;
-    margin: 0.5em 0;
+    width: 12em;
+    height: 10em;
   }
   
   .story__details {
