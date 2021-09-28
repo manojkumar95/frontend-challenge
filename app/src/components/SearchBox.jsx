@@ -9,7 +9,7 @@ const SearchBox = ({  getAutocompleteResult, getUpdatedStories, currentSearchRes
                     <div className="col-12 mb-2 mb-lg-0 me-lg-auto">
                         <AsyncSelect
                             loadOptions={getAutocompleteResult}
-                            placeholder={"Select...."}
+                            placeholder={"Search companies, organizations, people or places"}
                             defaultOptions={currentSearchResults}
                             options={currentSearchResults}
                             onChange={getUpdatedStories}
