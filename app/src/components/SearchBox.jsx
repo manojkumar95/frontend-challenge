@@ -4,13 +4,16 @@ import search from '../apis/search';
 const SearchBox = ({ props }) => {
     const [loading, setLoading] = useState(false);
 
-    const getData = (value) => {
-        console.log('search', value)
-        return search.search(value).then(result => {
-            console.log('result', result);
-            setLoading(false);
-            return [{ id: 0, label: "Loading..." }];
-        });
+    const getData = async (value) => {
+        const result = await search.search(value)
+        console.log('result', result);
+        setLoading(false);
+        const arrayObj = result.autocompletes.map(item => {
+            return {
+              label: item.text
+            };
+          });
+        return arrayObj;
     }
 
     return (
