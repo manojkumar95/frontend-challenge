@@ -24,7 +24,7 @@ function App() {
   }
 
   useEffect(() => {
-    const searchResults = getAutocompleteResult('A');
+    getAutocompleteResult('A');
     getUpdatedStories('A')
   }, []);
 
@@ -37,8 +37,6 @@ function App() {
 
 
   const fetchPageResults = async () => {
-    console.log('currentSearchText', currentSearchText)
-    console.log('stories', stories)
 
     const result = await search.searchStories(currentSearchText, stories.next_page_cursor)
     setUpdatedStories(result)
